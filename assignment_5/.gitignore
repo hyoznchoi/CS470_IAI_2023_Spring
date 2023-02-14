@@ -1,0 +1,7 @@
+*.py~
+*.cpp~
+*.h~
+*.md~
+__pycache__
+*.pyc
+.gitignore~
