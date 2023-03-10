@@ -7,6 +7,7 @@ N/A
 N/A
 
 # Assignment Links
+- [Assignment 1](https://githubtocolab.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_1/mlp_problem.ipynb/)
 - [Assignment 5](https://github.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_5/src/py_astar_planner/src/py_astar_planner/astar.py)
 
 # Quiz
