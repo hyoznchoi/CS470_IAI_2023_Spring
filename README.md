@@ -10,6 +10,9 @@ N/A
 
 # Assignment Links
 - [Assignment 1](https://githubtocolab.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_1/mlp_problem.ipynb/)
+- [Assignment 2-1](https://githubtocolab.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_2/CNN_problem_1.ipynb/)
+- [Assignment 2-2](https://githubtocolab.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_2/CNN_problem_2.ipynb/)
+- [Assignment 2-3](https://githubtocolab.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_2/CNN_problem_3.ipynb/)
 - [Assignment 5](https://github.com/pidipidi/cs470_IAI_2023_Spring/blob/main/assignment_5/src/py_astar_planner/src/py_astar_planner/astar.py)
 
 # Quiz
