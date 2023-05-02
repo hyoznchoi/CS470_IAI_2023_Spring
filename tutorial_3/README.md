@@ -34,10 +34,13 @@ export ROS_MASTER_URI=http://localhost:11311
 - [Tutorial Turtlebot3](https://github.com/pidipidi/cs470_IAI_2023_Spring/blob/main/tutorial_3/README_TURTLEBOT.md)
 
 # Error
-- CMake Error at /opt/ros/noetic/share/catkin/cmake/empy.cmake:30 (message):
+If you get following error:
+~~~~bash
+CMake Error at /opt/ros/noetic/share/catkin/cmake/empy.cmake:30 (message):
   Unable to find either executable 'empy' or Python module 'em'...  try
   installing the package 'python3-empy'
-In this case, please use following instead of just 'catkin_make' 
+~~~~
+Please use following instead of just 'catkin_make' 
 ~~~~bash
 catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
 ~~~~
